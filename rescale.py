@@ -8,7 +8,6 @@ bl_info = {
     "author": "Mox Alehin",
     "version": (1, 3),
     "blender": (4, 4, 0),
-    "location": "View3D > Sidebar > Tool > Rescale Tool, Search (F3)",
     "description": "Rescale objects' mesh data to a specified size along a chosen axis",
     "category": "Object",
 }

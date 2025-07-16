@@ -8,7 +8,7 @@ from collections import defaultdict
 
 bl_info = {
     "name": "Distribute Objects",
-    "author": "Your Name",
+    "author": "Mox Alehin",
     "version": (2, 20),
     "blender": (4, 4, 0),
     "location": "Object > Distribute Objects or Search > Distribute Objects",

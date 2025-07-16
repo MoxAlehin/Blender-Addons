@@ -2,7 +2,7 @@ bl_info = {
     "name": "Dissolve Coplanar Faces",
     "blender": (4, 4, 0),
     "category": "Mesh",
-    "author": "Your Name",
+    "author": "Mox Alehin",
     "version": (1, 0),
     "description": "Select coplanar faces and dissolve them into n-gon",
 }
